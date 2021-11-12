@@ -34,5 +34,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Target surya
 
-USE_GAPPS := true
 TARGET_BOOT_ANIMATION_RES := 1080
