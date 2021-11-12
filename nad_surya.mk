@@ -22,7 +22,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/surya/device.mk)
 
 # Inherit from Nusantara vendor
-$(call inherit-product, vendor/nusantara/common_full_phone.mk)
+$(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
 PRODUCT_NAME := nad_surya
 PRODUCT_DEVICE := surya
