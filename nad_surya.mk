@@ -33,4 +33,5 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Target surya
-USE_GAPPS := True
+
+USE_GAPPS := true
